@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Uses the <a href="http://www.biwascheme.org/" title="BiwaScheme">BiwaScheme</a> interpreter.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Rendered by <a href="http://jekyllrb.com/" title="Jekyll">Jekyll</a> and <a href="https://shopify.github.io/liquid" title="Liquid">Liquid</a>.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Hosted on <a href="http://github.com/ktavenner/ktavenner.github.io" title="This site hosted on GitHub">GitHub</a> thanks to <a href="http://pages.github.com/" title="GitHub Pages">GitHub Pages</a>.
+
+References <a href="http://www.weather.com/" title="Weather.com">Weather.com</a>.
